@@ -221,5 +221,5 @@ Built by the Sovereign Compute Collective. No cloud required.
 ---
 
 *Version: v23.64.0 (Phase 64 - SIR Integration Complete)*
-*Tested: AMD Ryzen 5800X + Vega 7 iGPU + GTX 1650 dGPU*
-*OS: Linux Mint 21 (stock kernel, no modifications)*
+*Tested: AMD Ryzen 5600G + Vega 7 iGPU + GTX 1650 dGPU*
+*OS: Linux Mint 21 (modification relevant to pipeline and ryiuk project)*
