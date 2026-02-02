@@ -1,0 +1,43 @@
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+debug_logs.txt
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.dylib
+*.exe
+*.dll
+
+# Temporary files
+temp_*
+*.tmp
+*.temp
+
+# Node (if any JS tooling)
+node_modules/
+npm-debug.log*
+
+# Secrets (NEVER commit these!)
+*.pem
+*.key
+.env
+secrets.toml
