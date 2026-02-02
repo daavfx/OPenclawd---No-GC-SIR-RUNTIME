@@ -1,0 +1,28 @@
+#!/bin/bash
+# manual_push.sh - Instructions for manual push
+# Run this in your terminal
+
+echo "🏛️ MANUAL PUSH TO GITHUB"
+echo "========================"
+echo ""
+echo "The repository is ready. Run these commands manually:"
+echo ""
+echo "1. Navigate to the repository:"
+echo "   cd /home/daavfx/Desktop/f-v23.6.0-Ryiuk_final_form_3.0/v14.0.0-Ryiuk_synthetic_evolution_1.0/ryiuk-core/tsc-rust/TypeScript-Rust-Compiler/typescript_rust/openclawd_nogc"
+echo ""
+echo "2. Set up git credentials (one-time):"
+echo "   git config user.email 'daavfx@github.com'"
+echo "   git config user.name 'daavfx'"
+echo ""
+echo "3. Add GitHub remote:"
+echo "   git remote add origin https://github.com/daavfx/OPenclawd---No-GC-SIR-RUNTIME.git"
+echo ""
+echo "4. Push to GitHub (you'll be prompted for password):"
+echo "   git push -u origin main"
+echo ""
+echo "   When prompted for password, enter: Daavile95$"
+echo ""
+echo "✅ That's it! Your repo will be live at:"
+echo "   https://github.com/daavfx/OPenclawd---No-GC-SIR-RUNTIME"
+echo ""
+echo "🏛️ Phase 64: SIR Integration Complete - Ready for legendary status!"
